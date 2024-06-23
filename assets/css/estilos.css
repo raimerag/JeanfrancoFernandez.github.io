@@ -2,6 +2,12 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+.centrar{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 /* Hero Section */
 
 #Hero-Section {
